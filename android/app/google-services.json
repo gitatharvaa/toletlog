@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534460194387",
+    "project_id": "tolet-login-ui",
+    "storage_bucket": "tolet-login-ui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534460194387:android:2abff41a7e7f988b5e70a6",
+        "android_client_info": {
+          "package_name": "com.example.toletlog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwpz7_VrkC0WVdRicWYUdLKR66eq7QAws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
